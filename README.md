@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ADAT65/ADAT65/output/snake.svg" alt="Snake animation" />
-
-###
