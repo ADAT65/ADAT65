@@ -6,7 +6,7 @@
   <a href="https://youtube.com/@el3ctrominds?si=qZu8M_C96yKKimt8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/put1cornio/" target="_blank">
+  <a href="https://www.instagram.com/dominick_almanza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/3qrMQtRXsB" target="_blank">
